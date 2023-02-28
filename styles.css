@@ -500,11 +500,11 @@ text-align: justify;
 	width:300px;
 	padding:5px 5px 5px 5px;
 	font-size:10px;
-	background-color:#efefef;
+	background-color:#F5F5F5;
 	color:#000;
 	text-align:left;
-	margin:20px 20px;	
-	border-radius:10px;
+	margin:20px 24px;	
+	border-radius:13px;
 }
 .item h1{
 	font-size:50px;
@@ -520,11 +520,17 @@ text-align: justify;
 #item3 h1{
 	color:#D4ca0f;
 }
-
-
 .item h2 {
 	font-size:20px;
 		text-align:center;
 }
-
-
+.service{
+  text-align:center;
+  padding: 4px 2px 8px 2px;
+}
+#s1 {
+width:90px;
+}
+#s2 {
+width:80px;
+}
