@@ -1,5 +1,22 @@
 ![Imagen decorativa de tu perfil](https://github.com/JSMC14/Portafolio/blob/main/img?raw=true)
 <h1 align="center">JONATHAN MUÑOZ</h1>
+<p align="center">
+    <a href="https://youtube.com/EduardoFierroPro?sub_confirmation=1" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="Youtube - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+    <a href="https://twitch.tv/eduardofierropro" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="Twitch - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+    <a href="https://twitter.com/eduardofierropro" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="Facebook - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+    <a href="https://instagram.com/eduardofierro.pro" target=""blank" style="margin: 0 20px; >
+      <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+    <a href="http://tiktok.com/@eduardofierro.pro" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+</p>
 <h3 align="center">A passionate system technologist, I specialize in computer maintenance, fullstack programming, server administration and network auditing</h3>
 
 - 👨‍💻 All of my projects are available at [https://jsmc14.github.io/Portafolio/](https://jsmc14.github.io/Portafolio/)
