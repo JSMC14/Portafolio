@@ -203,20 +203,6 @@ text-align: justify;
   text-align: left;
   margin: 20px 0;
 }
-
-.skill__item {
-  font-size: 65px;
-  color: var(--grey);
-  padding: 35px;
-  transition: all 0.3s;
-  min-width: 130px;
-  height: 180px;
-}
-
-.skill__item img {
-  max-height: 100px;
-  max-width: 100px;
-}
 .fa-node{
   color: #3C873A;
 }
@@ -484,9 +470,9 @@ text-align: justify;
 }
 .flex-container{
 	max-width:1200px;
-	width:90%;
+	width:95%;
 	list-style-type:none;
-	margin:20px auto;
+	margin:10px auto;
 	padding:0;
 	background-color:#ffffff;
 	
@@ -497,29 +483,20 @@ text-align: justify;
 }
 .item{
 	height:200px;
-	width:300px;
+	width:320px;
 	padding:5px 5px 5px 5px;
 	font-size:10px;
 	background-color:#F5F5F5;
 	color:#000;
 	text-align:left;
-	margin:20px 24px;	
+	margin:20px 20px;	
 	border-radius:13px;
 }
 .item h1{
 	font-size:50px;
-
 	text-align:center;
 }
-#item1 h1{
-	color:#D40f13;
-}
-#item2 h1{
-	color:#0f69d4;
-}
-#item3 h1{
-	color:#D4ca0f;
-}
+
 .item h2 {
 	font-size:20px;
 		text-align:center;
@@ -533,4 +510,35 @@ width:90px;
 }
 #s2 {
 width:80px;
+}
+
+.flex-skills{
+  max-width:1200px;
+	width:95%;
+	list-style-type:none;
+	margin:1px auto;
+	padding:0;
+	background-color:#ffffff;
+	
+	/*Flexbox setup*/
+	display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+.skill{
+  height:40px;
+	width:40px;
+	padding:5px 5px 5px 5px;
+	font-size:10px;
+	background-color:#ffffff;
+	color:#000;
+	text-align:left;
+	margin:10px 20px;	
+	border-radius:13px;
+}
+#skill1{
+  width:40px;
+}
+#skill2{
+  width:50px;
 }
