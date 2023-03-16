@@ -480,7 +480,7 @@ text-align: justify;
   justify-content: center;
 }
 .item{
-	height:200px;
+	height: auto;
 	width:330px;
 	padding:5px 5px 5px 5px;
 	font-size:10px;
