@@ -61,6 +61,8 @@ function intersectionHandler(entry) {
 //   });
 // }
 
+
+
 ScrollReveal().reveal(".navbar", { delay: 250 });
 ScrollReveal().reveal(".home__profile", { delay: 350 });
 ScrollReveal().reveal(".home__title--primary", { delay: 350 });
@@ -77,3 +79,5 @@ ScrollReveal().reveal(".flex-container", { delay: 450 });
 ScrollReveal().reveal(".portfolio__item", { delay: 450 });
 ScrollReveal().reveal(".contact__item", { delay: 450 });
 ScrollReveal().reveal(".footer", { delay: 450 });
+
+
