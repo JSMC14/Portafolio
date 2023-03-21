@@ -520,7 +520,7 @@ section {
 
 .service {
   text-align: center;
-  padding: 4px 2px 8px 2px;
+  padding: 0px 0px 0px 0px;
 }
 
 #s1 {
@@ -548,7 +548,7 @@ section {
 .skill {
   height: 40px;
   width: 40px;
-  padding: 4px 4px 4px 4px;
+  padding: 0px 0px 0px 0px;
   font-size: 10px;
   background-color: #ffffff;
   color: #000;
