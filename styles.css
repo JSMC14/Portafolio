@@ -138,7 +138,7 @@ section {
 }
 
 .home__title {
-  font-size: 70px;
+  font-size: 60px;
   text-shadow: 1px 1px black;
   color: var(--blue);
 }
